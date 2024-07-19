@@ -34,7 +34,7 @@ Build machine learning models to indentify factors that are most influential for
 
 
 
-As part of the Waze data team, I developed a machine learning model to predict monthly user churn, aiming to enhance user retention. We compared Random Forest and XGBoost models, with XGBoost achieving better performance. Key predictive features included km_per_hour and percent_sessions_in_last_month. Despite significant insights, the project highlighted the need for additional granular data to improve accuracy. This work showcases my ability to apply advanced machine learning techniques to solve user retention issues.
+As part of the Waze data team, I developed a machine learning models to predict monthly user churn, aiming to enhance user retention. We compared Random Forest and XGBoost models, with XGBoost achieving better performance. Key predictive features included km_per_hour and percent_sessions_in_last_month. Despite significant insights, the project highlighted the need for additional granular data to improve accuracy. This work showcases my ability to apply advanced machine learning techniques to solve user retention issues.
 
 
 
