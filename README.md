@@ -1,6 +1,6 @@
 # Portfolio
 
-This is my personal portfolio website. You can view it [here](https://watashiaashishgurung.github.io/website/index.html).
+This is my personal portfolio website. You can view it [here](https://watashiaashishgurung.github.io/website3/index.html).
 
 ## About Me
 
